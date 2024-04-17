@@ -87,6 +87,9 @@ Commands:
 ## Citation & Acknowledgment
 Please consider citing our project if you find it useful:
 
+## Blogs:
+https://medium.com/the-story-within/state-of-text-to-sql-dc3e3e4f8c64
+
 ```bibtex
 @software{sql-sidekick,
     title = {{sql-sidekick: A simple SQL assistant}},
