@@ -1,4 +1,4 @@
-demo_data = wget -P ./examples/demo/ --recursive --no-clobber https://h2o-sql-sidekick-public.s3.amazonaws.com/demo/Sleep_health_and_lifestyle_dataset.csv
+demo_data = wget -O ./examples/demo/demo_data.csv --no-clobber https://h2o-sql-sidekick-public.s3.amazonaws.com/demo/Sleep_health_and_lifestyle_dataset.csv
 
 .PHONY: download_demo_data
 
